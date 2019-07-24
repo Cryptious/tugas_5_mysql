@@ -1,0 +1,17 @@
+Apa pengertian dari character set?
+Apa istilah lain dari database?
+Tuliskan query untuk menampilkan character set di MYSQL!
+Tuliskan query untuk melihat collation yang terdapat di MYSQL!
+Sebutkan 5 tipe data numeric pada MYSQL!
+Sebutkan 5 tipe data string pada MYSQL!
+Sebutkan 3 tipe data date pada MYSQL!
+
+
+Jawab
+1. Kumpulan Karakter yang dipahami oleh Komputer
+2. Schema
+3. SHOW CHARACTER SET;
+4. SHOW COLLATION;
+5. INT, Decimal, Float, Double, Real
+6. Char, Varchar, Text, Blob, Set
+7. Date, DateTime, Time
